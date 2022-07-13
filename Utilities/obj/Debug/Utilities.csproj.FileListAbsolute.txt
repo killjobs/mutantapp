@@ -1,0 +1,14 @@
+D:\EscuelaVUE\Practica\MutantApp\Utilities\bin\Debug\Utilities.dll
+D:\EscuelaVUE\Practica\MutantApp\Utilities\bin\Debug\Utilities.pdb
+D:\EscuelaVUE\Practica\MutantApp\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\EscuelaVUE\Practica\MutantApp\Utilities\obj\Debug\Utilities.dll
+D:\EscuelaVUE\Practica\MutantApp\Utilities\obj\Debug\Utilities.pdb
+D:\EscuelaVUE\Practica\MutantApp\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\bin\Debug\Utilities.dll
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\bin\Debug\Utilities.pdb
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\obj\Debug\Utilities.Resources.SqlStatement.resources
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\obj\Debug\Utilities.dll
+D:\EscuelaVUE\Practica\Code\MutantApp\Utilities\obj\Debug\Utilities.pdb
